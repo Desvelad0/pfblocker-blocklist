@@ -1,7 +1,7 @@
 *.cn
 # Strengthening personal pfBlocker-NG installation, no need for these
-yandex.net
-yandex.ru
+*.yandex.net
+*.yandex.ru
 # Additions from adblock tests
 adtech.yahooinc.com
 bdapi-ads.realmemobile.com
