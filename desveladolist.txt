@@ -1,24 +1,38 @@
-*.cn
 # Strengthening personal pfBlocker-NG installation, no need for these
+
+# Misc
+*.cn
 *.yandex.net
 *.yandex.ru
-# Additions from adblock tests
 adtech.yahooinc.com
+
+# Realme
 bdapi-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
+
+# Xiaomi
 data.mistat.india.xiaomi.com
 data.mistat.rus.xiaomi.com
+
+# OnePlus
 ck.ads.oppomobile.com
 click.oneplus.cn
+
+# Apple
 iadsdk.apple.com
 api-adservices.apple.com
 books-analytics-events.apple.com
 weather-analytics-events.apple.com
 notes-analytics-events.apple.com
+
+# Huawei
 metrics.data.hicloud.com
 metrics2.data.hicloud.com
 grs.hicloud.com
 logservice.hicloud.com
 logservice1.hicloud.com
 logbak.hicloud.com
+
+# Samsung
 analytics-api.samsunghealthcn.com
+samsung-com.112.2o7.net
