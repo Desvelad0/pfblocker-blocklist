@@ -1,10 +1,35 @@
-# Strengthening personal pfBlocker-NG installation, no need for these
+# Strengthening personal pfBlocker-NG installation, personally have no need for these
 
 # Misc
 *.cn
 *.yandex.net
 *.yandex.ru
+events.reddit.com
+afs.googlesyndication.com
+mediavisor.doubleclick.net
+
+# Luckyorange
+api.luckyorange.com
+realtime.luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
+
+# Freshworks
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
+
+# Yahoo
+udc.yahoo.com
 adtech.yahooinc.com
+udcm.yahoo.com
+log.fc.yahoo.com
+
+# TikTok
+ads-api.tiktok.com
+ads-sg.tiktok.com
+analytics-sg.tiktok.com
+business-api.tiktok.com
+log.byteoversea.com
 
 # Realme
 bdapi-ads.realmemobile.com
