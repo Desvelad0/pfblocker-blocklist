@@ -1,0 +1,90 @@
+# Strengthening personal pfBlocker-NG installation, personally have no need for these
+
+# Misc
+*.cn
+*.yandex.net
+*.yandex.ru
+events.reddit.com
+afs.googlesyndication.com
+mediavisor.doubleclick.net
+
+# Luckyorange
+api.luckyorange.com
+realtime.luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
+
+# Freshworks
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
+
+# Yahoo
+udc.yahoo.com
+adtech.yahooinc.com
+udcm.yahoo.com
+log.fc.yahoo.com
+
+# TikTok
+ads-api.tiktok.com
+ads-sg.tiktok.com
+analytics-sg.tiktok.com
+business-api.tiktok.com
+log.byteoversea.com
+
+# MouseFlow
+tools.mouseflow.com
+cdn-test.mouseflow.com
+
+# Amazon
+analytics.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+
+# Realme
+bdapi-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
+
+# Xiaomi
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+
+# OnePlus
+ck.ads.oppomobile.com
+click.oneplus.cn
+
+# Apple
+iadsdk.apple.com
+api-adservices.apple.com
+books-analytics-events.apple.com
+weather-analytics-events.apple.com
+notes-analytics-events.apple.com
+
+# Huawei
+metrics.data.hicloud.com
+metrics2.data.hicloud.com
+grs.hicloud.com
+logservice.hicloud.com
+logservice1.hicloud.com
+logbak.hicloud.com
+
+# Samsung
+analytics-api.samsunghealthcn.com
+samsung-com.112.2o7.net
+
+# Sentry
+browser.sentry-cdn.com
+app.getsentry.com
+
+# Yandex
+extmaps-api.yandex.net
+adfstat.yandex.ru
+metrika.yandex.ru
+offerwall.yandex.net
+adfox.yandex.ru
+
+# Hotjar
+adm.hotjar.com
+identify.hotjar.com
+insights.hotjar.com
+surveys.hotjar.com
+events.hotjar.io
+
