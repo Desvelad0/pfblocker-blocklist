@@ -1,90 +1,83 @@
-# Strengthening personal pfBlocker-NG installation, personally have no need for these
-
-# Misc
-*.cn
-*.yandex.net
-*.yandex.ru
-events.reddit.com
-afs.googlesyndication.com
-mediavisor.doubleclick.net
-
-# Luckyorange
-api.luckyorange.com
-realtime.luckyorange.com
-cdn.luckyorange.com
-w1.luckyorange.com
-
-# Freshworks
-claritybt.freshmarketer.com
-fwtracks.freshmarketer.com
-
-# Yahoo
-udc.yahoo.com
-adtech.yahooinc.com
-udcm.yahoo.com
-log.fc.yahoo.com
-
-# TikTok
-ads-api.tiktok.com
-ads-sg.tiktok.com
-analytics-sg.tiktok.com
-business-api.tiktok.com
-log.byteoversea.com
-
-# MouseFlow
-tools.mouseflow.com
-cdn-test.mouseflow.com
-
 # Amazon
-analytics.s3.amazonaws.com
-analyticsengine.s3.amazonaws.com
-
-# Realme
-bdapi-ads.realmemobile.com
-bdapi-in-ads.realmemobile.com
-
-# Xiaomi
-data.mistat.india.xiaomi.com
-data.mistat.rus.xiaomi.com
-
-# OnePlus
-ck.ads.oppomobile.com
-click.oneplus.cn
+0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
 
 # Apple
-iadsdk.apple.com
-api-adservices.apple.com
-books-analytics-events.apple.com
-weather-analytics-events.apple.com
-notes-analytics-events.apple.com
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.apple.com
 
-# Huawei
-metrics.data.hicloud.com
-metrics2.data.hicloud.com
-grs.hicloud.com
-logservice.hicloud.com
-logservice1.hicloud.com
-logbak.hicloud.com
-
-# Samsung
-analytics-api.samsunghealthcn.com
-samsung-com.112.2o7.net
-
-# Sentry
-browser.sentry-cdn.com
-app.getsentry.com
-
-# Yandex
-extmaps-api.yandex.net
-adfstat.yandex.ru
-metrika.yandex.ru
-offerwall.yandex.net
-adfox.yandex.ru
+# Freshworks
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
 
 # Hotjar
-adm.hotjar.com
-identify.hotjar.com
-insights.hotjar.com
-surveys.hotjar.com
-events.hotjar.io
+0.0.0.0 adm.hotjar.com
+0.0.0.0 events.hotjar.io
+0.0.0.0 identify.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 surveys.hotjar.com
 
+# Huawei
+0.0.0.0 grs.hicloud.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+
+# Luckyorange
+0.0.0.0 api.luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+
+# Misc
+0.0.0.0 *.cn
+0.0.0.0 *.yandex.net
+0.0.0.0 *.yandex.ru
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 events.reddit.com
+0.0.0.0 mediavisor.doubleclick.net
+
+# MouseFlow
+0.0.0.0 cdn-test.mouseflow.com
+0.0.0.0 tools.mouseflow.com
+
+# OnePlus
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 click.oneplus.cn
+
+# Realme
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+
+# Samsung
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 samsung-com.112.2o7.net
+
+# Sentry
+0.0.0.0 app.getsentry.com
+0.0.0.0 browser.sentry-cdn.com
+
+# TikTok
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 log.byteoversea.com
+
+# Yahoo
+0.0.0.0 adtech.yahooinc.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 udcm.yahoo.com
+
+# Yandex
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 offerwall.yandex.net
