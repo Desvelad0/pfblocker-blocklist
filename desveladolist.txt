@@ -31,6 +31,14 @@ analytics-sg.tiktok.com
 business-api.tiktok.com
 log.byteoversea.com
 
+# MouseFlow
+tools.mouseflow.com
+cdn-test.mouseflow.com
+
+# Amazon
+analytics.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+
 # Realme
 bdapi-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
@@ -61,3 +69,22 @@ logbak.hicloud.com
 # Samsung
 analytics-api.samsunghealthcn.com
 samsung-com.112.2o7.net
+
+# Sentry
+browser.sentry-cdn.com
+app.getsentry.com
+
+# Yandex
+extmaps-api.yandex.net
+adfstat.yandex.ru
+metrika.yandex.ru
+offerwall.yandex.net
+adfox.yandex.ru
+
+# Hotjar
+adm.hotjar.com
+identify.hotjar.com
+insights.hotjar.com
+surveys.hotjar.com
+events.hotjar.io
+
