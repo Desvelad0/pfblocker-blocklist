@@ -69,6 +69,10 @@
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 log.byteoversea.com
 
+# Xiaomi
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+
 # Yahoo
 0.0.0.0 adtech.yahooinc.com
 0.0.0.0 log.fc.yahoo.com
