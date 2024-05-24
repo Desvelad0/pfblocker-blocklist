@@ -1,7 +1,15 @@
 # Amazon
+0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 advertising-api-eu.amazon.com
+
+# Adcolony
+0.0.0.0 ads30.adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 wd.adcolony.com
+
 
 # Apple
 0.0.0.0 api-adservices.apple.com
@@ -15,9 +23,22 @@
 api.bugsnag.comapi.bugsnag.com
 app.bugsnag.com
 
+# Doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+
 # Freshworks
 0.0.0.0 claritybt.freshmarketer.com
 0.0.0.0 fwtracks.freshmarketer.com
+
+# Google
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 afs.googlesyndication.com
 
 # Hotjar
 0.0.0.0 adm.hotjar.com
