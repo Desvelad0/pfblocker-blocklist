@@ -9,6 +9,10 @@
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.apple.com
 
+# Bugsnag
+api.bugsnag.comapi.bugsnag.com
+app.bugsnag.com
+
 # Freshworks
 0.0.0.0 claritybt.freshmarketer.com
 0.0.0.0 fwtracks.freshmarketer.com
