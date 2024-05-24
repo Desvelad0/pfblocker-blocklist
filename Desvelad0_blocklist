@@ -20,8 +20,8 @@
 0.0.0.0 advertising.apple.com
 
 # Bugsnag
-api.bugsnag.comapi.bugsnag.com
-app.bugsnag.com
+0.0.0.0 api.bugsnag.comapi.bugsnag.com
+0.0.0.0 app.bugsnag.com
 
 # Doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
